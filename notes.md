@@ -11,6 +11,10 @@ This file represents what I have learned about web programming.
 - [Canvas](https://byu.instructure.com)
 - [MDN](https://developer.mozilla.org)
 
+## GIT
+
+Interesting things about Git. It was built in a weekend.
+
 ## AWS
 
 Interesting things I have learned about AWS
