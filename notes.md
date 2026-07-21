@@ -13,7 +13,7 @@ This file represents what I have learned about web programming.
 
 ## GIT
 
-Interesting things about Git. It was built in a weekend.
+Interesting things I've learned about Git. It was built in a weekend.
 
 ## AWS
 
