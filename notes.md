@@ -15,6 +15,8 @@ This file represents what I have learned about web programming.
 
 Interesting things I've learned about Git. It was built in a weekend.
 
+A repository is created with a .git directory.
+
 ## AWS
 
 Interesting things I have learned about AWS
