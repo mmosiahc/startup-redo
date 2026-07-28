@@ -19,31 +19,24 @@ Hey remember that game from the tv series Beast Games? You know the one where th
 ![Design image](rememberThePathLogin50.png)
 ![Design image](rememberThePathHome50.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-```mermaid
-sequenceDiagram
-    actor You
-    actor Website
-    You->>Website: Replace this with your design
-```
-
 ### Key features
 
-- Describe your key feature
-- Describe your key feature
-- Describe your key feature
+- Account creation with secure login
+- Invite up to 3 friends to a party
+- Have up to 10 spectators
+- Chat with all party members
+- Play game with team of 4 in party
 
 ### Technologies
 
 I am going to use the required technologies in the following ways.
 
-- **HTML** - Description here
-- **CSS** - Description here
-- **React** - Description here
-- **Service** - Description here
-- **DB/Login** - Description here
-- **WebSocket** - Description here
+- **HTML** - Multiple pages with correct HTML structure: login, home, inbox, play. Area for sending chat messages and feed. Game board displayed for every player.
+- **CSS** - Clean styling with simple color choice. Dynamic screen sizing for different devices. Dark theme inspired.
+- **React** - Routing and components. Provides player avatars, messaging notifications, play buttons, game interactions, joining lobbies, and chat feed/messages. 
+- **Service** - Endpoints for login, logout, registration, sending invites, sending messages, updating inbox, joining lobbies, updating game. Endpoint for daily brain teaser to warm up.
+- **DB/Login** - Stores users, games, lobbies, messages, invites. Must be authenticated to play.
+- **WebSocket** - Broadcasts invites, messages, and game updates.
 
 ## 🚀 Specification Deliverable
 
@@ -52,12 +45,12 @@ I am going to use the required technologies in the following ways.
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] I completed the prerequisites for this deliverable (Git commit requirement)
-- [ ] Proper use of Markdown
-- [ ] A concise and compelling elevator pitch
-- [ ] Description of key features
-- [ ] Description of how you will use each technology including your 3rd party API and use of WebSocket
-- [ ] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
+- [X] I completed the prerequisites for this deliverable (Git commit requirement)
+- [X] Proper use of Markdown
+- [X] A concise and compelling elevator pitch
+- [X] Description of key features
+- [X] Description of how you will use each technology including your 3rd party API and use of WebSocket
+- [X] One or more rough sketches of your application. Images must be embedded in this file using Markdown image references.
 
 ## 🚀 AWS deliverable
 
