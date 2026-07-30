@@ -21,10 +21,15 @@ A repository is created with a .git directory.
 
 Interesting things I have learned about AWS
 
+### EC2
+
 Amazon Machine Image or AMI - software configurations given to an instance. My server elastic IP: 52.2.105.152. Command to shell into the server: 
 ```
 ➜  ssh -i [key pair file] ubuntu@[ip address]
 ```
+### Route 53
+
+Domain Name System, DNS, service. I leased a domain name for my web server: rememberthepath.click. Next step was to create records to the hosted zone. This specified how to route traffic to my domain.
 
 ## HTML
 
