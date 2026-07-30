@@ -21,6 +21,11 @@ A repository is created with a .git directory.
 
 Interesting things I have learned about AWS
 
+Amazon Machine Image or AMI - software configurations given to an instance. My server elastic IP: 52.2.105.152. Command to shell into the server: 
+```
+➜  ssh -i [key pair file] ubuntu@[ip address]
+```
+
 ## HTML
 
 Interesting things I have learned about HTML
