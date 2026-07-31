@@ -56,9 +56,9 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
-- [ ] **Rented EC2 server** - I did not complete this part of the deliverable.
-- [ ] **Leased domain name** - I did not complete this part of the deliverable.
-- [ ] **Server accessible** from my domain: [https://yourdomainnamehere.click](https://yourdomainnamehere.click) - I did not complete this part of the deliverable.
+- [X] **Rented EC2 server** - Set up my EC2 server.
+- [X] **Leased domain name** - I leased my domain name through AWS route 53 service.
+- [X] **Server accessible** from my domain: [https://rememberthepath.click](https://rememberthepath.click) - I modified my Caddy file to point to my domain, which leveraged Let's Encrypt to enable HTTPS connection.
 
 ## 🚀 HTML deliverable
 
